@@ -1,6 +1,6 @@
 const prompt = require('prompt-sync')();
 
-console.log("--- Cálculo da Média e Verificação de Aprovação ---");
+console.log("--- Cálculo da Média e Verificação de Aprovação com Exame ---");
 
 // Entrada de Dados
 let nota1 = Number(prompt("Digite a nota do 1º Bimestre: "));
